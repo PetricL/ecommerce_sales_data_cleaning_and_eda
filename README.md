@@ -52,7 +52,9 @@ ecommerce_data_cleaning_and_eda/
 git clone https://github.com/PetricL/ecommerce_sales_data_cleaning_and_eda.git
 
 ### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
+
 
 ### 3. Run the Data Cleaning Script
 scripts/cleaning.py
