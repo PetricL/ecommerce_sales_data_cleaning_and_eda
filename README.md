@@ -54,16 +54,18 @@ git clone https://github.com/PetricL/ecommerce_sales_data_cleaning_and_eda.git
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 3. Run the Data Cleaning Script
-scripts/cleaning.py
+You can run the cleaning script here:  
+[**scripts/cleaning.py**](https://github.com/PetricL/ecommerce_sales_data_cleaning_and_eda/blob/main/scripts/cleaning.py)
 
-### 4. Open the Jupyter Notebooks
+### 4. Open the Jupyter Notebooks  
 Use the notebooks below to review the complete data cleaning process and exploratory data analysis:
 
-notebooks/cleaning.ipynb
-notebooks/eda.ipynb
+- [**notebooks/cleaning.ipynb**](https://github.com/PetricL/ecommerce_sales_data_cleaning_and_eda/blob/main/notebooks/cleaning.ipynb)  
+- [**notebooks/eda.ipynb**](https://github.com/PetricL/ecommerce_sales_data_cleaning_and_eda/blob/main/notebooks/eda.ipynb)
+
 
 ---
 
