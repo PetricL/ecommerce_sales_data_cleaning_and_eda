@@ -16,6 +16,7 @@ The objective was to transform a messy e‑commerce sales dataset into a clean, 
 ---
 
 ## Project Structure
+```text
 ecommerce_data_cleaning_and_eda/
 │
 ├── data/
@@ -40,6 +41,8 @@ ecommerce_data_cleaning_and_eda/
 │
 ├── README.md
 └── requirements.txt
+```
+
 
 ---
 
